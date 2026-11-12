@@ -1,0 +1,6 @@
+{
+  "name": "AgriLink Congo",
+  "description": "Plateforme AgriTech reliant producteurs, coopératives, transporteurs et acheteurs en République du Congo avec surveillance FreshGuard et paiement sécurisé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

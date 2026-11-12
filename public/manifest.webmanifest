@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "AgriLink Congo",
+  "short_name": "AgriLink",
+  "description": "Plateforme AgriTech reliant producteurs, coopératives, transporteurs et acheteurs en République du Congo.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#064E3B",
+  "theme_color": "#064E3B",
+  "icons": [
+    {
+      "src": "/assets/aistudio/Logo_feuille_verte__co-technologique_connect_e_0933bc6b.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/aistudio/Logo_feuille_verte__co-technologique_connect_e_0933bc6b.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/aistudio/Logo_feuille_verte__co-technologique_connect_e_0933bc6b.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
